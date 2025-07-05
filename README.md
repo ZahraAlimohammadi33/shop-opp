@@ -33,6 +33,7 @@ Vanilla JS shopping cart project using OOP principles.
 ```bash
 cd shop-opp
 python -m http.server
+``` 
 Then open http://localhost:8000 in your browser.
 
 
